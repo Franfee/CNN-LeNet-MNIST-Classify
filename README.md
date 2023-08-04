@@ -1,7 +1,7 @@
 # CNN-LeNet-MNIST-Classify
 an simple deeplearning example for freshman
 
-Recommended Study Sequence(code with paper)：
+Recommended Study Sequence( paper with code)：
 
 - stage1(60 days): LeNet->AlexNet->VGG->GAN->VAE->RNN->
 - stage2(30 days): Transformer(Attention is all you need)->ViT->
